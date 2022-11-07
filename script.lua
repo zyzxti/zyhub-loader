@@ -9,3 +9,8 @@ end
 if game.PlaceId == 10758111998 then  -- Booga Booga Reborn
     loadstring(game:HttpGet "https://raw.githubusercontent.com/zyzxti/Scripts/main/Booga%20Booga.lua")()
 end  
+
+if game.PlaceId == 10404327868 then  -- Timber Champions
+    loadstring(game:HttpGet "https://raw.githubusercontent.com/zyzxti/Scripts/main/Timber%20Champions.lua")()
+end  
+
